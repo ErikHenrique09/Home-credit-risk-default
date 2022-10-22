@@ -1,5 +1,7 @@
 # Home-credit-risk-default
-Projeto criado desenvolvendo uma solução para o problema Home Credit Risk Default do Kaggle (https://www.kaggle.com/competitions/home-credit-default-risk/data)
+Projeto criado desenvolvendo uma solução para o problema Home Credit Risk Default do Kaggle 
+
+- Desafio em questão: https://www.kaggle.com/competitions/home-credit-default-risk/data
 
 Caso queira visualizar a dashboard no aplicativo power bi ( recomendado ), este arquivo sera necessario.
 
