@@ -6,7 +6,7 @@ Desenvolvimento de uma solução para o problema Home Credit Risk Default do Kag
 Caso queira visualizar a dashboard no aplicativo power bi ( recomendado ), este arquivo sera necessario.
 
 - Dados para a dashboard Power Bi: https://drive.google.com/file/d/16OETHvRAzzcok9oTi1Q38l65jvGQqtSB/view?usp=sharing
-- Arquivo em pdf da dashboard: https://github.com/ErikHenrique09/Home-credit-risk-default/blob/master/Dashboard%20-%20HomeCredit.pdf
+- O arquivo Dashboard - HomeCredit.pdf contem a ilustração da dashboard criada, porem acaba não sendo iterativa.
 
 Para rodar o codigo completo sera necessario criar uma pasta fora desta estrutura chamada datasets e colocar estes dois arquivos nela
   
