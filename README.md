@@ -1,5 +1,5 @@
 # Home-credit-risk-default
-Projeto criado desenvolvendo uma solução para o problema Home Credit Risk Default do Kaggle 
+Desenvolvimento de uma solução para o problema Home Credit Risk Default do Kaggle, o problema foi desenvolvido em duas partes, dentro do arquivo principal esta o link para a parte da analise exploratoria dos dados, contem a exploração e a geração de novas features preditivas.
 
 - Desafio em questão: https://www.kaggle.com/competitions/home-credit-default-risk/data
 
